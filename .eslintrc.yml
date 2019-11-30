@@ -1,0 +1,9 @@
+extends: airbnb-base
+env:
+  node: true
+  es2017: true
+
+rules:
+  no-restricted-syntax: 0
+  no-console: 0
+  no-plusplus: 0
