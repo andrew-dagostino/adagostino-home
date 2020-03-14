@@ -3,6 +3,9 @@ env:
   browser: true
   es2017: true
 
+globals:
+  M: readonly
+
 rules:
   no-restricted-syntax: 0
   no-console: 0
