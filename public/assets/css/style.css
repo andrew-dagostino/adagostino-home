@@ -34,3 +34,6 @@ footer {
 .nowrap-text {
   white-space: nowrap;
 }
+.indent-text {
+  text-indent: 40px;
+}
