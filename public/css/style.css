@@ -12,3 +12,17 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.collection, .collection-header, .collection-item {
+    border: none !important;
+}
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+footer {
+  margin-top: auto;
+}
